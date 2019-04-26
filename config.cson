@@ -1,0 +1,32 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "898f8c69-4aa0-4bbe-990b-4c3a87859aba"
+  core:
+    openEmptyEditorOnStart: false
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 12
+    scrollPastEnd: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "a2bf3cb8-9479-4c9b-ae3f-f29cbe2f00f5"
+  "platformio-ide-terminal":
+    style:
+      animationSpeed: 0
+      defaultPanelHeight: "450px"
+      fontFamily: "Menlo"
+      fontSize: "12"
+      theme: "one-dark"
+    toggles:
+      autoClose: true
+      cursorBlink: false
+  "vk-terminal":
+    style:
+      animationSpeed: 5
+    toggles:
+      cursorBlink: false
+  welcome:
+    showOnStartup: false
