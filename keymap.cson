@@ -32,3 +32,6 @@
 # http://flight-manual.atom.io/using-atom/sections/basic-customization/#configuring-with-cson
 'atom-text-editor':
   'cmd-shift-l': 'atom-beautify:beautify-editor'
+
+'body':
+  'cmd-shift-f': 'window:toggle-full-screen'

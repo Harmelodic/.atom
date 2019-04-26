@@ -6,6 +6,7 @@
     openEmptyEditorOnStart: false
     restorePreviousWindowsOnStart: "no"
     telemetryConsent: "limited"
+    titleBar: "hidden"
   editor:
     fontSize: 12
     scrollPastEnd: true
