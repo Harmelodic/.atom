@@ -16,6 +16,12 @@ Install packages:
 $ apm install --packages-file ~/.atom/package.list
 ```
 
+Open Atom:
+
+```
+$ atom
+```
+
 ## Updating packages
 
 ```
