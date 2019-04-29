@@ -2,6 +2,7 @@
   "atom-beautify":
     general:
       _analyticsUserId: "898f8c69-4aa0-4bbe-990b-4c3a87859aba"
+  "atom-ternjs": {}
   core:
     openEmptyEditorOnStart: false
     restorePreviousWindowsOnStart: "no"
@@ -14,6 +15,8 @@
     tabType: "soft"
   "exception-reporting":
     userId: "a2bf3cb8-9479-4c9b-ae3f-f29cbe2f00f5"
+  "language-babel":
+    autoIndentJSX: true
   "platformio-ide-terminal":
     style:
       animationSpeed: 0
