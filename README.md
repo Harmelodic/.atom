@@ -1,6 +1,4 @@
-# Atom Config
-
-
+# .atom (config)
 
 ## Installation
 
